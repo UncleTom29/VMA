@@ -751,7 +751,7 @@ img {
 }
 
 [data-theme='dark'] .navbar-sticky-moved-up {
-  background: #01081f;
+  background: #f8f9fa;
   -webkit-box-shadow: 0 4px 25px rgba(30, 39, 69, 0.3),
     0 1px 0px rgba(30, 39, 69, 0.4);
   box-shadow: 0 4px 25px rgba(30, 39, 69, 0.3), 0 1px 0px rgba(30, 39, 69, 0.4);
@@ -783,7 +783,7 @@ img {
 }
 
 .navbar-dark.navbar-sticky-on .navbar-nav .nav-link {
-  color: #7e8085;
+  color: #f0f2f8;
 }
 
 [data-theme='dark'] .navbar-dark.navbar-sticky-on .navbar-nav .nav-link {
@@ -794,7 +794,7 @@ img {
 .navbar-dark.navbar-sticky-on .navbar-nav .nav-link:focus,
 .navbar-dark.navbar-sticky-on .navbar-nav .nav-link.active,
 .navbar-dark.navbar-sticky-on .navbar-nav .nav-link.current-menu-item {
-  color: #2c2e30;
+  color: #f2f6fa;
 }
 
 [data-theme='dark'] .navbar-dark.navbar-sticky-on .navbar-nav .nav-link:hover,
