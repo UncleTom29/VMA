@@ -761,8 +761,8 @@ img {
   margin-top: 0;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 20px;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 20px;
+  -webkit-box-shadow: rgba(24, 23, 23, 0.1) 0px 0px 20px;
+  box-shadow: rgba(27, 26, 26, 0.1) 0px 0px 20px;
 }
 
 .navbar-sticky-on .navbar-brand-regular {
@@ -804,7 +804,7 @@ img {
   .navbar-dark.navbar-sticky-on
   .navbar-nav
   .nav-link.current-menu-item {
-  color: #d2d5da;
+  color: #858586;
 }
 
 /*---------- bootstrap nav custom hover ----------*/
